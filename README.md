@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elastic Chatbot RAG App
 
 This is a sample app that combines Elasticsearch, Langchain and a number of different LLMs to create a chatbot experience with ELSER with your own private data.
@@ -207,3 +208,7 @@ cd frontend && yarn start
 ```
 
 You can now access the frontend at http://localhost:3000. Changes are automatically reloaded.
+=======
+# ElasticBotRAG
+build a lLarge language model (LLM) chatbot that uses a pattern known as Retrieval-Augmented Generation (RAG)
+>>>>>>> origin/main
